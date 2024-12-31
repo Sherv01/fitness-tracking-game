@@ -41,7 +41,7 @@ The code uses several global variables to track the simulation state:
 4.  **Call `get_cur_hedons()` and `get_cur_health()`:** Retrieve the current hedons and health.
 5.  **Call `most_fun_activity_minute()`:** Determine the most hedonistic activity for one minute.
 
-## Activity and Star Bonus Logic (OG Rules Implemented)
+## Activity and Star Bonus Logic
 
 The `perform_activity` function implements the following rules:
 
